@@ -15,6 +15,7 @@ To setup or run this project on emulator or real device please follow those inst
 
 
 Project Structure:
+
 I always love to follow MVVM design pattern because it is easy to maintain and any developer can easily understand this.
 
 My Approach:
